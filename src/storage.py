@@ -1,5 +1,3 @@
-"""Persistent SQL storage and queries for the current movie collection."""
-
 import logging
 import sqlite3
 
