@@ -1,5 +1,3 @@
-"""Pydantic request and response models for the movie API."""
-
 from pydantic import BaseModel, Field
 
 
