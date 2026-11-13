@@ -1,5 +1,3 @@
-"""SQLite connection and schema helpers for the movie collection."""
-
 import sqlite3
 from pathlib import Path
 
