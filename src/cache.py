@@ -1,5 +1,3 @@
-"""Short-lived cache for movie retrieval responses."""
-
 import json
 import logging
 
